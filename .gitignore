@@ -25,3 +25,5 @@ yarn-error.log*
 TODO.md
 
 node_modules/
+
+.idea/
